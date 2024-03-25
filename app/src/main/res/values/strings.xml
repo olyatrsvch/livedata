@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Questionnaire</string>
+
+    <!-- Main Activity -->
+    <string name="etFirstName">First Name</string>
+    <string name="etLastName">Last Name</string>
+    <string name="etPatronymic">Patronymic (Optional)</string>
+    <string name="etAge">Age</string>
+    <string name="etHobby">Hobby</string>
+    <string name="tvAddInfo">Hello, tell about yourself:</string>
+    <string name="btnApply">Apply</string>
+    <string name="btnClear">Clear</string>
+
+    <!-- Clicker Activity -->
+    <string name="tvClicker">Hello, this is lazy clicker! Input any value you want =)</string>
+    <string name="etClicker">Number</string>
+    <string name="btnConfirm">Confirm</string>
+
+    <!-- Info Activity -->
+    <string name="tvQuestionnaireYoung">
+%s %s %s\n
+Hey there yo! My parents`ve called me %s. I`m just a poor %s years old kid.
+Here`s something about me yo:
+\n%s
+    </string>
+    <string name="tvQuestionnaireAdult">
+%s %s %s\n
+Hello, my name is %s. I am %s. Trying to find new friends. Here`s some of my information:
+\n%s\n
+Thank you!
+    </string>
+    <string name="tvQuestionnaireOld">
+%s %s %s\n
+Hello everyone. I`m super old man. I`ve spent %s years on Earth. Read something about me below:
+\n%s\n
+Thanks!
+    </string>
+
+    <!-- Menu strings -->
+
+    <string name="save">Save</string>
+    <string name="changeBackground">Change background</string>
+    <string name="runClicker">Run a clicker</string>
+
+    <string name="warnUser">Please make sure you put corresponding data (age is required)</string>
+</resources>
